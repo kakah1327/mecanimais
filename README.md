@@ -231,7 +231,6 @@ gripper_motor.settings(max_speed=720, acceleration=720)
 ### Documentação Adicional:
 - `INSTALACAO.md` - Instruções detalhadas de instalação
 - `TROUBLESHOOTING.md` - Guia completo de solução de problemas
-- `FAQ.md` - Perguntas frequentes
 
 ### Recursos Online:
 - [Documentação Pybricks](https://pybricks.com/ev3-micropython/)
@@ -241,25 +240,7 @@ gripper_motor.settings(max_speed=720, acceleration=720)
 ### Contato:
 - **Projeto**: Mecanimais
 - **Equipe**: Kauã Ribeiro Santos, Guilherme Nunes Joanna, Lucas Fernandes de Melo, Cintia Marques Castanho Sae
-- **Versão**: 2.0
 - **Data**: Janeiro 2025
-- **Licença**: MIT
-
----
-
-## 📝 Notas Importantes
-
-⚠️ **Atenção**: 
-- Sempre supervisione a operação do robô
-- Mantenha a área de trabalho organizada
-- Não force movimentos manuais durante a operação
-- Desligue o sistema em caso de comportamento anômalo
-
-✅ **Dicas de Uso**:
-- Use objetos leves e pequenos para melhor performance
-- Mantenha as posições de trabalho livres de obstáculos  
-- Execute testes em velocidade reduzida primeiro
-- Faça backup das configurações personalizadas
 
 ---
 
