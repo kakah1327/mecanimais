@@ -240,7 +240,7 @@ gripper_motor.settings(max_speed=720, acceleration=720)
 ### Contato:
 - **Projeto**: Mecanimais
 - **Equipe**: Kauã Ribeiro Santos, Guilherme Nunes Joanna, Lucas Fernandes de Melo, Cintia Marques Castanho Sae
-- **Data**: Janeiro 2025
+- **Data**: Setembro 2025
 
 ---
 
